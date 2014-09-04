@@ -1,0 +1,6 @@
+Licenta::Application.routes.draw do
+ 
+  get "app/views/static_pages/home"
+  get "app/views/static_pages/help"
+
+end
